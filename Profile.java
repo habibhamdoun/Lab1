@@ -3,6 +3,5 @@ public class Profile{
 		System.out.println("Habib hamdoun");
 		System.out.println("Computer Engineering");
 		System.out.println("First Year");
-		System.out.println("Web Development");
 	}
 }
